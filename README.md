@@ -2,7 +2,7 @@
 
 ## HTML
 
-## Basics of HTML
+### Basics of HTML
 - Hypertext Markup Language
 - HyperText Markup Language is the primary language of the wen, containing the content and structure of a Website
 
