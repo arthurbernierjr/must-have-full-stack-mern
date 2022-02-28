@@ -23,10 +23,10 @@
   -->
 ```
 
-### <!DOCTYPE html>
-### <html></html>
-  - ### <head></head>
-  - ### <body></body>
+### `<!DOCTYPE html>`
+### `<html></html>`
+  - ### `<head></head>`
+  - ### `<body></body>`
 
 
 ## CSS
