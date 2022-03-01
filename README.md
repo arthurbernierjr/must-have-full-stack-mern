@@ -38,16 +38,103 @@
  - `<footer></footer>` Closing, Conclusion or Ending Content of the body, section, or article.. Usually Copyright and Footer navigation information outside the main content of site
  - `<nav></nav>` Navigation links often a child of header or footer
  - `<aside></aside>` Indirectly related non vital content, usually used for sidebars.
+### Most used HTML tags
+  - `<h1></h1>` Heading from h1 through h6
+  - `<p></p>` Paragraph
+  - `<img src="imgsource" alt="alternative text"/>` Image tags
+  - `<ul></ul>` Unordered list and `<ol></ol>` ordered list
+  - `<li></li>` A list item inside a list
+  - `<pre></pre>` Preformatted text
+  - `<br/>` Line break
+  - `<hr/>` Horizontal Rule Tag
+  - `<a href="website to go to"> Text to display for link</a>` Anchor tag to make hyperlinks
+  - `<em></em>` Emphasis tag
+  - `<strong></strong>` Strong text tag
+  - `<span></span>` Inline text
+  - `<div></div>` Non semantic division tag to designate a block of text, shouldn't be abused
+### Tables
+### Forms
+### Document Object Model From POV of HTML
+### Web Accessibility
+### Meta Data
+### Open Graph API
 
 ## CSS
+ ### CSS Basics
+ ### CSS Selectors
+ ### Psuedo Classes and Elements
+ ### CSS Specificity
+ ### CSS Units
+ ### Block vs Inline
+ ### The Box Model
+ ### Box Sizing
+ ### Position
+ ### Stacking Contexts
+ ### Flexbox
+ ### CSS Grid
+ ### Images
+ ### Inheritance in CSS
+ ### Responsive Design
+ ### Animations
+ ### CSS Variables
+ ### Frameworks and PreProcessors
+ ### CSS Methodologies and Best Practices
 
 ## JS
+ ### JavaScript Basics
+ ### Variables and Scoping
+ ### Arrays
+ ### Objects
+ ### Equality and Type Coercion
+ ### Syntactic Sugar and Modern JS
+ ### Connecting JavaScript to HTML
+ ### DOM Manipulation
+ ### Event Driven Programming
+ ### Promises
+ ### Servers
+ ### Timers and Intervals
+ ### Closures
+ ### This
+ ### Classes
+ ### Currying
+ ### Generators
+ ### Modules
+ ### The Event Loop
+ ### Web Workers
+ ### Browser Storage
+ ### Basic Data Structures with JS
+ ### JS Frameworks
+ ### TypeScript
+ ### Debugging Strategies
+ ### Writing Clean JavaScript
+ ### The JavaScript EcoSystem
+
+## Web Application Development Concepts
+  ### What is Web Development
+  ### Client Server Model
+  ### Webpage Request Lifecycle
+  ### Hypertext Transer Protocol
+  ### Working with APIs
+  ### Web Security
+  ### How Browsers Render Content
 
 ## Object Oriented Programming
+  ### Objects as Nouns
+  ### Classes as Definitions of Nouns and Index
+  ### Abstraction
+   - It refers to, providing only essential information to the outside world and hiding their background details. For example, a web server hides how it processes data it receives, the end user just hits the endpoints and gets the data back.
+  ### Encapsulation
+   - Encapsulation is a process of binding data members (variables, properties) and member functions (methods) into a single unit. It is also a way of restricting access to certain properties or component. The best example for encapsulation is a class.
+  ### Inheritance
+   - The ability to create a new class from an existing class is called Inheritance. Using inheritance, we can create a Child class from a Parent class such that it inherits the properties and methods of the parent class and can have its own additional properties and methods. For example, if we have a class Vehicle that has properties like Color, Price, etc, we can create 2 classes like Bike and Car from it that have those 2 properties and additional properties that are specialized for them like a car has numberOfWindows while a bike cannot. Same is applicable to methods.
+  ### Polymorphism
+   - The word polymorphism means having many forms. Typically, polymorphism occurs when there is a hierarchy of classes and they are related by inheritance. C++ polymorphism means that a call to a member function will cause a different function to be executed depending on the type of object that invokes the function.
 
-## Functional Programming
 
-## Declarative Programming
+## Functional Programming & Declarative Programming
+ ### Why?
+ - Imperative: With imperative programming, our code tells the compiler and users about how to do a task.
+ - Declarative: With Declarative programming, our code tells the compiler and users what to do.
 
 ## Node JS & Express
 
