@@ -28,6 +28,16 @@
   - ### `<head></head>`
   - ### `<body></body>`
 
+### Semantic HTML
+ - Does you HTML make sense without the browser? That's the question.
+### Semantic Grouping Tags
+ - `<header></header>` Intruductory content of the body, section, or article.
+ - `<main></main>` Main Content of the body
+ - `<article></article>` Self-Contained Content that can be distributed on its own and would make sense
+ - `<section></section>` Thematically grouped content that is not distributable
+ - `<footer></footer>` Closing, Conclusion or Ending Content of the body, section, or article.. Usually Copyright and Footer navigation information outside the main content of site
+ - `<nav></nav>` Navigation links often a child of header or footer
+ - `<aside></aside>` Indirectly related non vital content, usually used for sidebars.
 
 ## CSS
 
